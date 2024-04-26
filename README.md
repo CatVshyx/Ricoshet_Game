@@ -5,14 +5,14 @@ Left-click and hold to move the laser target then release the mouse.
 Every mirror is right-clicked and turned on 30 degrees.
 
 
-###How it looks
+### How it looks
 ![image](https://github.com/CatVshyx/Ricoshet_Game/assets/47032134/79e350b0-6848-4b3c-952b-bd00435677d9)
 
 
-###How to play?
+### How to play?
 1. download the package or repository
 2. Build with visual studio and NET framework installed
 3. Play
 
-###Additional
+### Additional
 You can use this project for your cases, projects and education. Feel free ^_^
