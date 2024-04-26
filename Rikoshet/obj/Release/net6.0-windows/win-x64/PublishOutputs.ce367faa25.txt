@@ -1,0 +1,2 @@
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\win-x64\Rikoshet.pdb
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\win-x64\Rikoshet.exe

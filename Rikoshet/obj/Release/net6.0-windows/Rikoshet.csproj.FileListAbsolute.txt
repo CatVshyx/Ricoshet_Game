@@ -1,0 +1,17 @@
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\Rikoshet.exe
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\Rikoshet.deps.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\Rikoshet.runtimeconfig.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\Rikoshet.pdb
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.Form1.resources
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.Properties.Resources.resources
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.csproj.GenerateResource.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.GeneratedMSBuildEditorConfig.editorconfig
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.AssemblyInfoInputs.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.AssemblyInfo.cs
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.csproj.CoreCompileInputs.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\refint\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.pdb
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\Rikoshet.genruntimeconfig.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\ref\Rikoshet.dll

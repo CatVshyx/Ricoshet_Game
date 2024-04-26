@@ -1,0 +1,5 @@
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\Rikoshet.exe
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\Rikoshet.deps.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\Rikoshet.runtimeconfig.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\publish\Rikoshet.pdb

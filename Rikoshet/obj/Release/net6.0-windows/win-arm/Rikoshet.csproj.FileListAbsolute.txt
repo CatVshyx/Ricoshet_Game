@@ -1,0 +1,17 @@
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\win-arm\Rikoshet.exe
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\win-arm\Rikoshet.deps.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\win-arm\Rikoshet.runtimeconfig.json
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\win-arm\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\bin\Release\net6.0-windows\win-arm\Rikoshet.pdb
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.Form1.resources
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.Properties.Resources.resources
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.csproj.GenerateResource.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.GeneratedMSBuildEditorConfig.editorconfig
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.AssemblyInfoInputs.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.AssemblyInfo.cs
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.csproj.CoreCompileInputs.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\refint\Rikoshet.dll
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.pdb
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\Rikoshet.genruntimeconfig.cache
+F:\current_working_projects\course_project_csharp\Rikoshet\obj\Release\net6.0-windows\win-arm\ref\Rikoshet.dll

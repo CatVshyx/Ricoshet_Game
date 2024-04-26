@@ -1,0 +1,4 @@
+hello:batya
+poka:men
+papa:mama
+resolution:720x480
